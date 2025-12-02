@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Sharm el-Sheikh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-10-13T20:16:21.518Z",
+      "notes": "",
+      "position": {
+        "lat": "27.858503954841247",
+        "lng": "34.31030273437501"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Sharm el-Sheikh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-10-13T20:16:36.422Z",
+      "notes": "",
+      "position": {
+        "lat": "28.12043868710109",
+        "lng": "34.12628173828126"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-10-16T14:46:50.559Z",
+      "notes": "",
+      "position": {
+        "lat": "30.107117887092382",
+        "lng": "31.201171875000004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-10-22T17:36:57.125Z",
+      "notes": "",
+      "position": {
+        "lat": "40.38002840251183",
+        "lng": "-3.6914062500000004"
+      },
+      "id": 98443201
+    }
+  ]
+}
