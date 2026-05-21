@@ -32,3 +32,37 @@
   color: var(--color-light--1);
   margin-bottom: 2.5rem;
 }
+
+@media (max-width: 768px) {
+  .homepage {
+    margin: 1.5rem;
+    height: calc(100vh - 3rem);
+    padding: 2rem 3rem;
+  }
+
+  .homepage h1 {
+    font-size: 3.2rem;
+  }
+
+  .homepage h2 {
+    width: 100%;
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .homepage {
+    margin: 1rem;
+    height: calc(100vh - 2rem);
+    padding: 1.5rem 2rem;
+  }
+
+  .homepage h1 {
+    font-size: 2.6rem;
+  }
+
+  .homepage h2 {
+    font-size: 1.4rem;
+    margin-bottom: 1.5rem;
+  }
+}

@@ -10,3 +10,16 @@
   align-content: start;
   gap: 1.6rem;
 }
+
+@media (max-width: 768px) {
+  .countryList {
+    height: 40vh;
+  }
+}
+
+@media (max-width: 480px) {
+  .countryList {
+    grid-template-columns: 1fr;
+    height: 35vh;
+  }
+}

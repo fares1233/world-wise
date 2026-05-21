@@ -13,3 +13,15 @@
 .cityList::-webkit-scrollbar {
   width: 0;
 }
+
+@media (max-width: 768px) {
+  .cityList {
+    height: 40vh;
+  }
+}
+
+@media (max-width: 480px) {
+  .cityList {
+    height: 35vh;
+  }
+}

@@ -76,3 +76,21 @@ input:focus {
     "description": "Import CSS Module as `styles`"
   },
 */
+
+@media (max-width: 768px) {
+  html {
+    font-size: 55%;
+  }
+
+  .cta:link,
+  .cta:visited {
+    padding: 0.8rem 2rem;
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 50%;
+  }
+}
